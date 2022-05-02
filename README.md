@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 🤖
+
+I'm an engineer at AWS and consultant on enterprise software projects. Sadly most of my contributions are now private, but you can still find previous documentation on my [website](https://marcusguttenplan.com).
+
+You can contact me at [hey@marcusguttenplan.com](hey@marcusguttenplan.com)
+
 
 <!--
 **marcusguttenplan/marcusguttenplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
