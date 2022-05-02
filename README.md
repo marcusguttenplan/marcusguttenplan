@@ -1,8 +1,9 @@
 ### Hi there 🤖
 
-I'm an engineer at AWS and consultant on enterprise software projects. Sadly most of my contributions are now private, but you can still find previous documentation on my [website](https://marcusguttenplan.com).
+I'm an engineer at AWS and consultant on enterprise software projects. Sadly most of my contributions are now private, but you can still find previous documentation on my <a href="https://marcusguttenplan.com" target="_blank">website</a>.
 
-You can contact me at [hey@marcusguttenplan.com](hey@marcusguttenplan.com)
+
+You can contact me at <a href="hey@marcusguttenplan.com" target="_blank">hey@marcusguttenplan.com</a>.
 
 
 <!--
