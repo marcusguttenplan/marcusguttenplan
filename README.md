@@ -1,8 +1,8 @@
 ### Hi there 🤖
 
-I'm building <a href="https://courseclear.io/" target="_blank">Course Clear</a>, a marine construction compliance platform.
+I'm building <a href="https://courseclear.io/" target="_blank">Course Clear</a>, a marine construction compliance platform. I also consult with companies on scalability, compliance, and technical strategy.
 
-Previously, I have worked as an engineer and technologist at Google and AWS.  Sadly most of my contributions are now private, but you can still find previous documentation on my <a href="https://marcusguttenplan.com" target="_blank">website</a> and you can contact me at <a href="hey@marcusguttenplan.com" target="_blank">hey@marcusguttenplan.com</a>.
+Previously, I have worked as an engineer and technologist at Google and AWS.  Sadly most of my contributions are now private, but you can still find info on my <a href="https://marcusguttenplan.com" target="_blank">website</a> or you can contact me at <a href="hey@marcusguttenplan.com" target="_blank">hey@marcusguttenplan.com</a>.
 
 
 <!--
